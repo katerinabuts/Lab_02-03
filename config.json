@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "name": "lb3",
+    "user": "root",
+    "password": ""
+  },
+  "env": "dev",
+  "cookie": {
+    "key": "secret key",
+    "auth": "x-access-token"
+  }
+}
